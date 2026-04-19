@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "ccdc35081160258e",
+    "type": "split",
+    "children": [
+      {
+        "id": "23d22371445dd2fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ea55f413c5ef48a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Projetos/Paramount/aprendizado.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792584,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de aprendizado"
+            }
+          },
+          {
+            "id": "f438f7f68ea016ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aprendizado/JavaScript/manipulação de listas/map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "map"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b60e42a89023b65a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7293e068d4d4b46f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Aprendizado/JavaScript/manipulação de listas/map.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6dc00e43dba030e",
+    "type": "split",
+    "children": [
+      {
+        "id": "536753be48fd4660",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "722506aab6215a38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "a4c6b07e91736082",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "eda10d8c07fdca23",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3289328d2108546",
+    "type": "split",
+    "children": [
+      {
+        "id": "64cf7d21a927d9a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c131b7271756d6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projetos/Paramount/aprendizado.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para aprendizado"
+            }
+          },
+          {
+            "id": "548ce6ca35712926",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projetos/Paramount/aprendizado.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para aprendizado"
+            }
+          },
+          {
+            "id": "52d1c812a25fefeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5f8947a48a78b2a5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "e5d2f357cda49aa4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projetos/Paramount/aprendizado.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de aprendizado"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "f438f7f68ea016ff",
+  "lastOpenFiles": [
+    "Projetos/gameShelf/Aprendizado.md",
+    "Aprendizado/JavaScript/manipulação de listas/map.md",
+    "Aprendizado/JavaScript/manipulação de listas/forEach.md",
+    "Projetos/Paramount/aprendizado.md",
+    "assets/aemon.jfif",
+    "assets/Prince Aemond staring at The Iron Throne.jfif",
+    "assets",
+    "Nova pasta",
+    "assets/plano de fundo.md",
+    "assets/snippets/plano de fundo",
+    "assets/snippets",
+    "aemon.jfif",
+    "assets/snippets/fundo.css.md",
+    "Sem título.md",
+    "Prince Aemond staring at The Iron Throne 1.jfif",
+    "assets.md",
+    "fundo css.md",
+    "Prince Aemond staring at The Iron Throne.jfif",
+    "Projetos/aluraBooks",
+    "Projetos/gameShelf/Sem título.md",
+    "Projetos/Sem título.md"
+  ]
+}

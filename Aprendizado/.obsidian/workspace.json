@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "474b2910c565680a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f025f97323c5ffe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dc30ae06149f120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/manipulação de listas/forEach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "forEach"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "663da1d3970e8682",
+    "type": "split",
+    "children": [
+      {
+        "id": "6be76b8c3216690e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80c16361b727b8fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "232717e9ccc9b274",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "ec8109f5710d4edb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "114c3f574a262d50",
+    "type": "split",
+    "children": [
+      {
+        "id": "a991aef9752a77da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29025972bd3bdab1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript/manipulação de listas/forEach.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para forEach"
+            }
+          },
+          {
+            "id": "5561038e8edc3c17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript/manipulação de listas/forEach.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para forEach"
+            }
+          },
+          {
+            "id": "34c5195c876b277b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "aa3e49ee6e614fb8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "fbe5371d3fefdd23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript/manipulação de listas/forEach.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de forEach"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "2dc30ae06149f120",
+  "lastOpenFiles": [
+    "JavaScript/manipulação de listas/map.md",
+    "2026-04-18.md",
+    "Sem título.canvas",
+    "JavaScript/manipulação de listas/forEach.md",
+    "JavaScript/manipulação de listas/map",
+    "Bem-vindo.md",
+    "JavaScript/manipulação de listas",
+    "JavaScript/Sem título",
+    "Sem título 1.md",
+    "Sem título.md",
+    "JavaScript"
+  ]
+}

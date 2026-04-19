@@ -1,0 +1,6 @@
+body { 
+  background-image: url("app://obsidian.md/assets/aemon.jfif");
+  background-size: cover; 
+  background-position: center; 
+  background-attachment: fixed;
+}
