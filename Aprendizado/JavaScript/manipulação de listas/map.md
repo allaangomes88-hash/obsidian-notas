@@ -18,4 +18,4 @@ O `map` percorre cada item de um `array` e retorna um `array` novo com o resulta
 `console.log(titulos)-> "html e css"`
 
 --------------------------------------------------------------------
-usado em: [[Projetos/gameShelf/Aprendizado|Aprendizado]]
+usado em: [[gameShelf]]

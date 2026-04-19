@@ -12,4 +12,4 @@ Ele vai pegar cada elemento da nossa lista (`array`) e executar uma determinada 
 
 `map`
 ----------------------------------------------------------------------------------------------
-usado em: [[Projetos/gameShelf/Aprendizado|Aprendizado]]
+usado em: [[gameShelf]]
