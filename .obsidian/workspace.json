@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projetos/gameShelf.md",
+                "file": "Aprendizado/JavaScript/adicionar audio/new Audio.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de gameShelf"
+              "title": "Gráfico de new Audio"
             }
           },
           {
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/gameShelf.md",
+                "file": "Aprendizado/JavaScript/adicionar audio/new Audio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gameShelf"
+              "title": "new Audio"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projetos/gameShelf.md",
+                "file": "Aprendizado/JavaScript/adicionar audio/new Audio.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -99,7 +99,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de gameShelf"
+              "title": "Gráfico de new Audio"
             }
           }
         ]
@@ -267,8 +267,15 @@
   },
   "active": "00db8cb2740ba4b3",
   "lastOpenFiles": [
-    "Projetos/Paramount/aprendizado.md",
+    "Projetos/fokus.md",
+    "Aprendizado/JavaScript/adicionar audio/new Audio.md",
+    "Aprendizado/JavaScript/adicionar audio",
+    "Aprendizado/JavaScript/Sem título.md",
+    "Aprendizado/JavaScript/avaliação/switch.md",
+    "Aprendizado/JavaScript/avaliação",
     "Projetos/gameShelf.md",
+    "Projetos/Sem título",
+    "Projetos/Paramount/aprendizado.md",
     "Aprendizado/JavaScript/manipulação de listas/map.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
     "Pasted image 20260419124644.png",
@@ -283,13 +290,10 @@
     "assets/plano de fundo.md",
     "assets/snippets/plano de fundo",
     "assets/snippets",
-    "aemon.jfif",
     "assets/snippets/fundo.css.md",
     "Sem título.md",
-    "Prince Aemond staring at The Iron Throne 1.jfif",
     "assets.md",
     "fundo css.md",
-    "Prince Aemond staring at The Iron Throne.jfif",
     "Projetos/gameShelf/Sem título.md"
   ]
 }
