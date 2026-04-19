@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/eventos/submit.md",
+                "file": "Aprendizado/JavaScript/manipulação de listas/forEach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "submit"
+              "title": "forEach"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/eventos/submit.md",
+                "file": "Aprendizado/JavaScript/manipulação de listas/forEach.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -99,7 +99,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de submit"
+              "title": "Gráfico de forEach"
             }
           }
         ]
@@ -267,12 +267,12 @@
   },
   "active": "00db8cb2740ba4b3",
   "lastOpenFiles": [
+    "Aprendizado/JavaScript/eventos/submit.md",
     "Aprendizado/JavaScript/manipulação de listas/map.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
     "Aprendizado/JavaScript/avaliação/switch.md",
     "Aprendizado/JavaScript/adicionar audio/new Audio.md",
     "git/salvar automatico.md",
-    "Aprendizado/JavaScript/eventos/submit.md",
     "Aprendizado/JavaScript/eventos",
     "Projetos/gameShelf.md",
     "Projetos/fokus.md",
