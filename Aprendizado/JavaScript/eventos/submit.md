@@ -1,0 +1,1 @@
+submit- O evento `submit` é disparado quando um formulário é enviado. Seja clicando num botão `type="submit"` ou apertando **Enter** dentro de um input.
