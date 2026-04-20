@@ -1,3 +1,4 @@
+uso em:[[fokus]] [[gameShelf]]
 
 **click** -> detecta o click do ususario
 
@@ -13,6 +14,15 @@
 
 
 ---
-keydown -> Dispara no momento em que uma tecla é pressionada do caractere aparecer no campo.
+**keydown** -> Dispara no momento em que uma tecla é pressionada, antes do caractere aparecer no campo.
 
-input.addEventListener('keydown', (event) => { if (event.key === 'Enter') { console.log('Usuário pressionou Enter!'); } if (event.key === 'Escape') { input.value = ''; // limpa o campo } });
+`input.addEventListener('keydown', (event) => {` 
+`if (event.key === 'Enter'){` 
+
+`console.log('Usuário pressionou Enter!');`
+
+`} if (event.key === 'Escape') {`
+
+`input.value = ''; // limpa o campo }`
+
+`});`
