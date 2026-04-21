@@ -19,7 +19,7 @@ ul.append("texto simples") // ✅ funciona
 o append faz mais que o appendChild faz. É mais moderno usa-lo
 
 ---
-Usado no projeto [[fokus]]
+Usado nos projetos: [[fokus]] [[gameShelf]]
 
 ```
     const p = document.[[createElement]]("p")
