@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/gameShelf.md",
+                "file": "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gameShelf"
+              "title": "Append x AppendChild"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projetos/gameShelf.md",
+                "file": "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,12 +94,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.2414543899483033,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de gameShelf"
+              "title": "Gráfico de Append x AppendChild"
             }
           }
         ]
@@ -267,21 +267,24 @@
   },
   "active": "00db8cb2740ba4b3",
   "lastOpenFiles": [
+    "Aprendizado/JavaScript/adicionar elementos/createElement.md",
+    "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
+    "createElement.md",
     "Projetos/fokus.md",
-    "Aprendizado/JavaScript/adicionar audio/new Audio.md",
-    "Aprendizado/JavaScript/avaliação/switch.md",
-    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
     "Projetos/gameShelf.md",
-    "Aprendizado/JavaScript/manipulação de listas/sort.md",
+    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
+    "Aprendizado/JavaScript/avaliação/switch.md",
+    "Aprendizado/JavaScript/adicionar elementos/new Audio.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
     "Aprendizado/JavaScript/manipulação de listas/map.md",
+    "Aprendizado/JavaScript/manipulação de listas/sort.md",
     "Aprendizado/JavaScript/add.EventListiner/eventos",
     "Aprendizado/JavaScript/add.EventListiner",
     "Aprendizado/JavaScript/adicionar audio/add.EventListener",
     "Aprendizado/JavaScript/eventos/submit.md",
     "git/salvar automatico.md",
     "Aprendizado/JavaScript/eventos",
-    "Aprendizado/JavaScript/adicionar audio",
+    "Aprendizado/JavaScript/adicionar elementos",
     "Aprendizado/JavaScript/avaliação",
     "Projetos/Sem título",
     "Projetos/Paramount/aprendizado.md",
