@@ -42,3 +42,6 @@ O parse `JSON.parse` converte uma **string JSON** de volta pra um objeto/array J
 É o caminho inverso do `JSON.stringify`
 
 Se converte o array em string (stringify) dps converto essa string em um objeto (parse) se n tiver nada, mostra nulo ( [ ] )
+
+
+---
