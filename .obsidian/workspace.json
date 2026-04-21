@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/add.EventListiner/onClick.md",
+                "file": "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "onClick"
+              "title": "localStorage"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/add.EventListiner/onClick.md",
+                "file": "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de onClick"
+              "title": "Gráfico de localStorage"
             }
           }
         ]
@@ -269,9 +269,12 @@
   },
   "active": "00db8cb2740ba4b3",
   "lastOpenFiles": [
-    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
     "Aprendizado/JavaScript/add.EventListiner/onClick.md",
     "Aprendizado/JavaScript/validação/if else.md",
+    "add.EventListiner.md",
+    "addEventListiner.md",
+    "addEventListener.md",
+    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
     "Aprendizado/JavaScript/validação/if else",
     "Projetos/gameShelf.md",
@@ -302,9 +305,6 @@
     "git",
     "assets/plano de fundo.md",
     "assets/snippets/fundo.css.md",
-    "Sem título.md",
-    "assets.md",
-    "fundo css.md",
-    "Projetos/gameShelf/Sem título.md"
+    "Sem título.md"
   ]
 }
