@@ -10,6 +10,6 @@ Ele vai pegar cada elemento da nossa lista (`array`) e executar uma determinada 
 
 `Irá mostrar todos os itens no console` 
 
-`map`
-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
 usado em: [[gameShelf]]
+exemplo de como foi:

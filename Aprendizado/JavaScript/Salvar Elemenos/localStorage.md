@@ -1,3 +1,5 @@
+uso em: [[gameShelf]]
+
 É onde fica salvo no site informações sem precisar coloca-las novamente
 Existem 4 metodos de usada-lo:
 
@@ -45,3 +47,25 @@ Se converte o array em string (stringify) dps converto essa string em um objeto 
 
 
 ---
+exemplo de uso com o [[forEach]], no projeto [[fokus]]
+
+
+O [[forEach]] pode servir para **renderizar na tela as tarefas que já existiam no localStorage** quando a página carrega.
+
+Sem ele, toda vez que você abrisse a página estaria vazia — mesmo tendo tarefas salvas.
+
+```js
+// 1. recupera a lista salva no localStorage
+const lista = JSON.parse(localStorage.getItem("lista")) || []
+
+// 2. para cada tarefa salva, cria um <li> e adiciona no <ul>
+lista.forEach(element => {
+    ul.append(criarItemTarefa(element))
+})
+```
+(o criarItemTarefa é todos os elementos que vao estar dentro de cada Li da UL)
+
+Traduzindo: "pega cada objeto que estava salvo, transforma em elemento visual e coloca na tela".
+
+Sem o [[forEach]] você até salvaria as tarefas, mas na próxima visita a lista estaria vazia visualmente — os dados existiriam no localStorage mas ninguém estaria lendo e desenhando na tela.
+
