@@ -1,3 +1,5 @@
+usado em:[[gameShelf]]
+
 Ordena os elementos de um array **no próprio array** (modifica o original).
 
 ### Com função de comparação
@@ -33,3 +35,18 @@ console.log(nomes); // ['Ana', 'Bruno', 'Carlos'] ✅
 ```
 
 > `localeCompare` respeita acentos e caracteres especiais
+
+### Ordenando array de objetos
+
+js
+
+```js
+const jogos = [
+  { nome: 'Zelda', nota: 9.5 },
+  { nome: 'Mario', nota: 8.2 },
+  { nome: 'Elden Ring', nota: 9.8 },
+];
+
+// Ordenar por nota (crescente)
+jogos.sort((a, b) => a.nota - b.nota);
+```
