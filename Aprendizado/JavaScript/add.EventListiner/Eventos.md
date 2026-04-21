@@ -1,6 +1,6 @@
 uso em:[[fokus]] [[gameShelf]]
 
-**click** -> detecta o click do ususario
+**click** -> detecta o click do usuario
 
 ---
 

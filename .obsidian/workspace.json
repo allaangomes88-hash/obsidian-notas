@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
+                "file": "Aprendizado/JavaScript/localStorage/Sem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Append x AppendChild"
+              "title": "Sem título"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
+                "file": "Aprendizado/JavaScript/localStorage/Sem título.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -99,7 +99,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Append x AppendChild"
+              "title": "Gráfico de Sem título"
             }
           }
         ]
@@ -267,21 +267,23 @@
   },
   "active": "00db8cb2740ba4b3",
   "lastOpenFiles": [
+    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
+    "Aprendizado/JavaScript/localStorage/Sem título.md",
+    "Aprendizado/JavaScript/localStorage",
+    "Aprendizado/JavaScript/eventos/submit.md",
     "Aprendizado/JavaScript/adicionar elementos/createElement.md",
     "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
-    "createElement.md",
-    "Projetos/fokus.md",
-    "Projetos/gameShelf.md",
-    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
-    "Aprendizado/JavaScript/avaliação/switch.md",
     "Aprendizado/JavaScript/adicionar elementos/new Audio.md",
+    "Projetos/fokus.md",
+    "createElement.md",
+    "Projetos/gameShelf.md",
+    "Aprendizado/JavaScript/avaliação/switch.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
     "Aprendizado/JavaScript/manipulação de listas/map.md",
     "Aprendizado/JavaScript/manipulação de listas/sort.md",
     "Aprendizado/JavaScript/add.EventListiner/eventos",
     "Aprendizado/JavaScript/add.EventListiner",
     "Aprendizado/JavaScript/adicionar audio/add.EventListener",
-    "Aprendizado/JavaScript/eventos/submit.md",
     "git/salvar automatico.md",
     "Aprendizado/JavaScript/eventos",
     "Aprendizado/JavaScript/adicionar elementos",
@@ -293,7 +295,6 @@
     "Projetos/gameShelf/Aprendizado gameShelf.md",
     "git",
     "assets/aemon.jfif",
-    "assets/Prince Aemond staring at The Iron Throne.jfif",
     "assets/plano de fundo.md",
     "assets/snippets/fundo.css.md",
     "Sem título.md",
