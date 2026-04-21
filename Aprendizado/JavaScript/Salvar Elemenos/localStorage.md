@@ -25,9 +25,20 @@ Precisamos converter par JSON pois ele só salva string:
 `descricao: textTearea.value` 
 `}`
    
-  lista.[[push]](tarefas)
+  lista.[[push]](tarefas)-- o push sempre adiciona um objeto no final da lista (lista) que no caso até não adicionar ninguem ela esta vazia
 
 
--> `localStorage.setItem("lista", JSON.stringify([{descricao: "estudar"}]))`
+-> `localStorage.setItem("lista", JSON.stringify(lista))`
 
     
+
+---
+Para sempre que carregar a página mostrar o foi salvo ou se n tiver nada ficar vazio:
+
+`const lista: JSON.parse(localStorage.getItem("lista")) || [ ]`
+
+O parse `JSON.parse` converte uma **string JSON** de volta pra um objeto/array JavaScript.
+
+É o caminho inverso do `JSON.stringify`
+
+Se converte o array em string (stringify) dps converto essa string em um objeto (parse) se n tiver nada, mostra nulo ( [ ] )
