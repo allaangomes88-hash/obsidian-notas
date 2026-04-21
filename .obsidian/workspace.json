@@ -6,7 +6,7 @@
       {
         "id": "23d22371445dd2fc",
         "type": "tabs",
-        "dimension": 51.831210191082796,
+        "dimension": 51.8312101910828,
         "children": [
           {
             "id": "2ea55f413c5ef48a",
@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
+                "file": "Aprendizado/JavaScript/avaliação/switch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "localStorage"
+              "title": "switch"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
+                "file": "Aprendizado/JavaScript/avaliação/switch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de localStorage"
+              "title": "Gráfico de switch"
             }
           }
         ]
@@ -270,19 +270,20 @@
   "active": "00db8cb2740ba4b3",
   "lastOpenFiles": [
     "Aprendizado/JavaScript/adicionar elementos/new Audio.md",
-    "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
     "Aprendizado/JavaScript/adicionar elementos/createElement.md",
+    "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
+    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
+    "Aprendizado/JavaScript/avaliação/switch.md",
+    "Aprendizado/JavaScript/Salvar Elemenos/sessionStorage.md",
+    "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
     "Aprendizado/JavaScript/manipulação de listas/sort.md",
     "Aprendizado/JavaScript/manipulação de listas/map.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
-    "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
     "Projetos/fokus.md",
-    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
     "Aprendizado/JavaScript/Salvar Elemenos",
     "Aprendizado/JavaScript/eventos/submit.md",
     "createElement.md",
     "Projetos/gameShelf.md",
-    "Aprendizado/JavaScript/avaliação/switch.md",
     "Aprendizado/JavaScript/add.EventListiner/eventos",
     "Aprendizado/JavaScript/add.EventListiner",
     "Aprendizado/JavaScript/adicionar audio/add.EventListener",
