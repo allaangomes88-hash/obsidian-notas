@@ -25,5 +25,20 @@ if(tarefas.includes("comer")){
 }
 ```
 
-Mesma lógica — pergunta se o item existe e responde `true` ou `false`. A diferença é só onde procura: `includes` em array ([[forEach]], `contains` em classList.
+Mesma lógica — pergunta se o item existe e responde `true` ou `false`. A diferença é só onde procura: `includes` em array ([[forEach]]), **`contains` em classList.**
 
+
+---
+junto com o forEach:
+
+```js
+const tarefas = ["estudar", "comer", "dormir"]
+
+tarefas.forEach((tarefa) => {
+    if(tarefa.includes("co")){
+        console.log(tarefa) // "comer"
+    }
+})
+```
+
+Aqui o `includes` tá verificando se a string contém "co
