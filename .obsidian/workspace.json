@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
+                "file": "Aprendizado/JavaScript/adicionar elementos/e.target.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "localStorage"
+              "title": "e.target"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
+                "file": "Aprendizado/JavaScript/adicionar elementos/e.target.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de localStorage"
+              "title": "Gráfico de e.target"
             }
           }
         ]
@@ -269,16 +269,18 @@
   },
   "active": "00db8cb2740ba4b3",
   "lastOpenFiles": [
+    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
+    "Aprendizado/JavaScript/adicionar elementos/e.target.md",
+    "Aprendizado/JavaScript/adicionar elementos/Sem título",
+    "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
     "Aprendizado/JavaScript/add.EventListiner/onClick.md",
     "Aprendizado/JavaScript/validação/if else.md",
     "add.EventListiner.md",
     "addEventListiner.md",
     "addEventListener.md",
-    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
     "Aprendizado/JavaScript/validação/if else",
     "Projetos/gameShelf.md",
-    "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
     "Aprendizado/JavaScript/Salvar Elemenos/sessionStorage.md",
     "Aprendizado/JavaScript/validação/switch.md",
     "Aprendizado/JavaScript/adicionar elementos/new Audio.md",
@@ -302,9 +304,7 @@
     "Pasted image 20260419124644.png",
     "Aprendizado gameShelf.md",
     "Projetos/gameShelf/Aprendizado gameShelf.md",
-    "git",
     "assets/plano de fundo.md",
-    "assets/snippets/fundo.css.md",
-    "Sem título.md"
+    "assets/snippets/fundo.css.md"
   ]
 }

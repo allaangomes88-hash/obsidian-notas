@@ -1,3 +1,14 @@
+Quando for usar um add.EventListiner pra passar uma function que tenho algum parametro deve-se usar: ( ), ficando : 
+
+`addEventListener("click", () => tarefaEmFoco(tarefa))`
+
+se essa function tivesse um e.target ficaria assim:   
+
+`addEventListener("click", (e) => tarefaEmFoco(tarefa, e))`
+
+
+---
+
 uso em:[[fokus]] [[gameShelf]]
 
 **click** -> detecta o click do usuario
