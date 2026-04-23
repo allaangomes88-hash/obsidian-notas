@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/validação/Contains e includes.md",
+                "file": "Recursos/new CustomEvent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contains e includes"
+              "title": "new CustomEvent"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/validação/Contains e includes.md",
+                "file": "Recursos/new CustomEvent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Contains e includes"
+              "title": "Gráfico de new CustomEvent"
             }
           }
         ]
@@ -269,8 +269,9 @@
   },
   "active": "00db8cb2740ba4b3",
   "lastOpenFiles": [
-    "Aprendizado/JavaScript/manipulação de listas/forEach.md",
     "Aprendizado/JavaScript/validação/Contains e includes.md",
+    "Recursos/new CustomEvent.md",
+    "Aprendizado/JavaScript/manipulação de listas/forEach.md",
     "Aprendizado/JavaScript/adicionar elementos/new Audio.md",
     "Aprendizado/JavaScript/adicionar elementos/e.target.md",
     "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
@@ -304,7 +305,6 @@
     "Projetos/Paramount/aprendizado.md",
     "Pasted image 20260419124644.png",
     "Aprendizado gameShelf.md",
-    "Projetos/gameShelf/Aprendizado gameShelf.md",
-    "assets/plano de fundo.md"
+    "Projetos/gameShelf/Aprendizado gameShelf.md"
   ]
 }
