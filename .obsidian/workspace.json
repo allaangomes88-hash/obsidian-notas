@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursos/new CustomEvent.md",
+                "file": "Aprendizado/JavaScript/validação/if else.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "new CustomEvent"
+              "title": "if else"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Recursos/new CustomEvent.md",
+                "file": "Aprendizado/JavaScript/validação/if else.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de new CustomEvent"
+              "title": "Gráfico de if else"
             }
           }
         ]
@@ -269,8 +269,8 @@
   },
   "active": "00db8cb2740ba4b3",
   "lastOpenFiles": [
-    "Aprendizado/JavaScript/validação/Contains e includes.md",
     "Recursos/new CustomEvent.md",
+    "Aprendizado/JavaScript/validação/Contains e includes.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
     "Aprendizado/JavaScript/adicionar elementos/new Audio.md",
     "Aprendizado/JavaScript/adicionar elementos/e.target.md",
