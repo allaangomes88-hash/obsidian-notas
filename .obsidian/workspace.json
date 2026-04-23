@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/validação/if else.md",
+                "file": "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "if else"
+              "title": "localStorage"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/validação/if else.md",
+                "file": "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de if else"
+              "title": "Gráfico de localStorage"
             }
           }
         ]
@@ -269,6 +269,9 @@
   },
   "active": "00db8cb2740ba4b3",
   "lastOpenFiles": [
+    "Aprendizado/JavaScript/validação/if else.md",
+    "Aprendizado/JavaScript/validação/switch.md",
+    "Aprendizado/JavaScript/manipulação de listas/map.md",
     "Recursos/new CustomEvent.md",
     "Aprendizado/JavaScript/validação/Contains e includes.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
@@ -278,18 +281,15 @@
     "Aprendizado/JavaScript/adicionar elementos/Sem título",
     "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
     "Aprendizado/JavaScript/add.EventListiner/onClick.md",
-    "Aprendizado/JavaScript/validação/if else.md",
     "add.EventListiner.md",
     "addEventListiner.md",
     "addEventListener.md",
     "Aprendizado/JavaScript/validação/if else",
     "Projetos/gameShelf.md",
     "Aprendizado/JavaScript/Salvar Elemenos/sessionStorage.md",
-    "Aprendizado/JavaScript/validação/switch.md",
     "Aprendizado/JavaScript/adicionar elementos/createElement.md",
     "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
     "Aprendizado/JavaScript/manipulação de listas/sort.md",
-    "Aprendizado/JavaScript/manipulação de listas/map.md",
     "Projetos/fokus.md",
     "Aprendizado/JavaScript/Salvar Elemenos",
     "Aprendizado/JavaScript/eventos/submit.md",
