@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/validação/Contains e includes.md",
+                "file": "Recursos/new CustomEvent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contains e includes"
+              "title": "new CustomEvent"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/validação/Contains e includes.md",
+                "file": "Recursos/new CustomEvent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Contains e includes"
+              "title": "Gráfico de new CustomEvent"
             }
           }
         ]
@@ -269,6 +269,7 @@
   },
   "active": "00db8cb2740ba4b3",
   "lastOpenFiles": [
+    "Aprendizado/JavaScript/validação/Contains e includes.md",
     "Aprendizado/JavaScript/adicionar elementos/e.target.md",
     "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
     "Aprendizado/JavaScript/adicionar elementos/new Audio.md",
@@ -278,7 +279,6 @@
     "Aprendizado/JavaScript/validação/switch.md",
     "Aprendizado/JavaScript/manipulação de listas/map.md",
     "Recursos/new CustomEvent.md",
-    "Aprendizado/JavaScript/validação/Contains e includes.md",
     "Aprendizado/JavaScript/adicionar elementos/Sem título",
     "Aprendizado/JavaScript/add.EventListiner/onClick.md",
     "add.EventListiner.md",
