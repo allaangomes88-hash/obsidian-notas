@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/manipulação de listas/forEach.md",
+                "file": "Aprendizado/JavaScript/validação/Contains e includes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "forEach"
+              "title": "Contains e includes"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/manipulação de listas/forEach.md",
+                "file": "Aprendizado/JavaScript/validação/Contains e includes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de forEach"
+              "title": "Gráfico de Contains e includes"
             }
           }
         ]
@@ -269,16 +269,16 @@
   },
   "active": "00db8cb2740ba4b3",
   "lastOpenFiles": [
+    "Aprendizado/JavaScript/adicionar elementos/e.target.md",
+    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
+    "Aprendizado/JavaScript/adicionar elementos/new Audio.md",
+    "Aprendizado/JavaScript/manipulação de listas/forEach.md",
     "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
     "Aprendizado/JavaScript/validação/if else.md",
     "Aprendizado/JavaScript/validação/switch.md",
     "Aprendizado/JavaScript/manipulação de listas/map.md",
     "Recursos/new CustomEvent.md",
     "Aprendizado/JavaScript/validação/Contains e includes.md",
-    "Aprendizado/JavaScript/manipulação de listas/forEach.md",
-    "Aprendizado/JavaScript/adicionar elementos/new Audio.md",
-    "Aprendizado/JavaScript/adicionar elementos/e.target.md",
-    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
     "Aprendizado/JavaScript/adicionar elementos/Sem título",
     "Aprendizado/JavaScript/add.EventListiner/onClick.md",
     "add.EventListiner.md",
