@@ -1,5 +1,11 @@
 uso em: [[gameShelf]]
 
+- **localStorage.setItem(chave, valor)**: Este método é usado para armazenar dados no localStorage. Ele aceita dois parâmetros:
+- 
+    - **chave**: Uma string que serve como identificador para os dados armazenados.
+    - **valor**: O dado a ser armazenado, que deve ser uma string.
+
+
 É onde fica salvo no site informações sem precisar coloca-las novamente
 Existem 4 metodos de usada-lo:
 
