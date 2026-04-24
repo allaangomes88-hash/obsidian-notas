@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOOOOOOOOOOOOOOOOOOOOO.md",
+                "file": "Aprendizado/JavaScript/adicionar elementos/null.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AOOOOOOOOOOOOOOOOOOOOO"
+              "title": "null"
             }
           }
         ],
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AOOOOOOOOOOOOOOOOOOOOO.md",
+                "file": "Aprendizado/JavaScript/adicionar elementos/null.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +115,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de AOOOOOOOOOOOOOOOOOOOOO"
+              "title": "Gráfico de null"
             }
           }
         ]
@@ -283,11 +283,14 @@
   },
   "active": "00cb63b31070a66f",
   "lastOpenFiles": [
-    "Recursos/new CustomEvent.md",
-    "AOOOOOOOOOOOOOOOOOOOOO.md",
-    "Aprendizado/JavaScript/validação/Contains e includes.md",
     "Aprendizado/JavaScript/adicionar elementos/e.target.md",
+    "Aprendizado/JavaScript/adicionar elementos/null.md",
+    "Aprendizado/JavaScript/add.EventListiner/document.AddEventListiner.md",
     "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
+    "Aprendizado/JavaScript/add.EventListiner/onClick.md",
+    "AOOOOOOOOOOOOOOOOOOOOO.md",
+    "Recursos/new CustomEvent.md",
+    "Aprendizado/JavaScript/validação/Contains e includes.md",
     "Aprendizado/JavaScript/adicionar elementos/new Audio.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
     "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
@@ -295,7 +298,6 @@
     "Aprendizado/JavaScript/validação/switch.md",
     "Aprendizado/JavaScript/manipulação de listas/map.md",
     "Aprendizado/JavaScript/adicionar elementos/Sem título",
-    "Aprendizado/JavaScript/add.EventListiner/onClick.md",
     "add.EventListiner.md",
     "addEventListiner.md",
     "addEventListener.md",
@@ -317,8 +319,6 @@
     "Aprendizado/JavaScript/adicionar elementos",
     "Aprendizado/JavaScript/validação",
     "Projetos/Sem título",
-    "Projetos/Paramount/aprendizado.md",
-    "Pasted image 20260419124644.png",
-    "Aprendizado gameShelf.md"
+    "Pasted image 20260419124644.png"
   ]
 }
