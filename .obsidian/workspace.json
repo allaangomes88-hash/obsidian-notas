@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/validação/Contains e includes.md",
+                "file": "Aprendizado/JavaScript/manipulação de listas/forEach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contains e includes"
+              "title": "forEach"
             }
           }
         ],
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/validação/Contains e includes.md",
+                "file": "Aprendizado/JavaScript/manipulação de listas/forEach.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +115,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Contains e includes"
+              "title": "Gráfico de forEach"
             }
           }
         ]
@@ -283,11 +283,11 @@
   },
   "active": "00cb63b31070a66f",
   "lastOpenFiles": [
+    "Aprendizado/JavaScript/validação/Contains e includes.md",
     "Aprendizado/JavaScript/add.EventListiner/onClick.md",
     "Aprendizado/JavaScript/validação/if else.md",
     "gameShelf [[fokus.md",
     "Aprendizado/JavaScript/validação/switch.md",
-    "Aprendizado/JavaScript/validação/Contains e includes.md",
     "Aprendizado/JavaScript/add.EventListiner/document.AddEventListiner.md",
     "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
     "Aprendizado/JavaScript/adicionar elementos/null.md",
