@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
+                "file": "Aprendizado/JavaScript/validação/if else.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "localStorage"
+              "title": "if else"
             }
           }
         ],
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
+                "file": "Aprendizado/JavaScript/validação/if else.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +115,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de localStorage"
+              "title": "Gráfico de if else"
             }
           }
         ]
@@ -283,6 +283,9 @@
   },
   "active": "00cb63b31070a66f",
   "lastOpenFiles": [
+    "Aprendizado/JavaScript/validação/switch.md",
+    "Aprendizado/JavaScript/validação/if else.md",
+    "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
     "Aprendizado/JavaScript/adicionar elementos/null.md",
     "Aprendizado/JavaScript/adicionar elementos/e.target.md",
     "Aprendizado/JavaScript/add.EventListiner/document.AddEventListiner.md",
@@ -293,9 +296,6 @@
     "Aprendizado/JavaScript/validação/Contains e includes.md",
     "Aprendizado/JavaScript/adicionar elementos/new Audio.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
-    "Aprendizado/JavaScript/Salvar Elemenos/localStorage.md",
-    "Aprendizado/JavaScript/validação/if else.md",
-    "Aprendizado/JavaScript/validação/switch.md",
     "Aprendizado/JavaScript/manipulação de listas/map.md",
     "Aprendizado/JavaScript/adicionar elementos/Sem título",
     "add.EventListiner.md",
