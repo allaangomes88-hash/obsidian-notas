@@ -63,14 +63,10 @@
             "id": "00cb63b31070a66f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aprendizado/JavaScript/manipulação de listas/o que usar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "o que usar"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ],
@@ -87,7 +83,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/manipulação de listas/o que usar.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +110,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de o que usar"
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -283,17 +278,17 @@
   },
   "active": "00cb63b31070a66f",
   "lastOpenFiles": [
-    "Aprendizado/JavaScript/manipulação de listas/filter.md",
+    "Aprendizado/JavaScript/add.EventListiner/onClick.md",
+    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
+    "Aprendizado/JavaScript/add.EventListiner/document.AddEventListiner.md",
     "Aprendizado/JavaScript/manipulação de listas/o que usar.md",
+    "Aprendizado/JavaScript/manipulação de listas/filter.md",
     "Aprendizado/JavaScript/adicionar elementos/remove.md",
     "Aprendizado/JavaScript/adicionar elementos/null.md",
     "Aprendizado/JavaScript/manipulação de listas/sort.md",
-    "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
-    "Aprendizado/JavaScript/add.EventListiner/document.AddEventListiner.md",
     "Aprendizado/JavaScript/manipulação de listas/map.md",
     "Aprendizado/JavaScript/validação/Contains e includes.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
-    "Aprendizado/JavaScript/add.EventListiner/onClick.md",
     "Aprendizado/JavaScript/validação/if else.md",
     "gameShelf [[fokus.md",
     "Aprendizado/JavaScript/validação/switch.md",

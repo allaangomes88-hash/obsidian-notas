@@ -53,4 +53,43 @@ usado no: [[fokus]]
     }
 ```
 
-se o prompt (atualizacao) tiver um valor ele ira retornar([[if else]]) o tarefa.descricao com o P e salvar ([[localStorage]])
+se o prompt (atualizacao) tiver um valor ele ira retornar([[if else]]) o tarefa.descricao com o P e salvar ([[localStorage]]).
+
+
+---
+```
+  
+
+const botaoLimparObj=document.getElementById("btn-remover-concluidas")
+
+const limparTodaAlista=document.getElementById("btn-remover-todas")
+
+const removerTarefas= (somenteCompletas) => {
+
+    let validacao= somenteCompletas ? "app__section-task-list-item-complete" : "app__section-task-list-item"
+
+    document.querySelectorAll("li").forEach(elemento => {
+
+        if(elemento.classList.contains(validacao)){
+
+            elemento.remove()
+
+        }
+
+    })
+
+    const filtroDeObjetos= somenteCompletas ? lista.filter(tarefa => !tarefa.completa): []
+
+    lista= filtroDeObjetos
+
+    salvar()
+
+}
+
+botaoLimparObj.onclick= () => removerTarefas(true)
+
+limparTodaAlista.onclick= () => removerTarefas(false)
+```
+aqui é uma const que usa o Onclick mas que funciona para dois botoes com propostas diferentes. Um limpa apenas as cmpletas e o outro limpa tudo, usando apenas o onClick. [[forEach]] [[filter]]
+
+mas o [[document.AddEventListiner]] faria o msm com: `botaoLimparObj.addEventListener("click", () => removerTarefas(true))`
