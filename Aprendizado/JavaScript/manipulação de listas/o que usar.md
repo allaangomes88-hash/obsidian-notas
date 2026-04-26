@@ -1,0 +1,1 @@
+"preciso remover itens de um array" → filter "preciso fazer algo pra cada item" → forEach "preciso transformar cada item" → map "preciso somar algo" → reduce "preciso achar um item" → find
