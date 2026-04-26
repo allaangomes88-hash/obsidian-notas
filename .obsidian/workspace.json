@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/adicionar elementos/null.md",
+                "file": "Aprendizado/JavaScript/manipulação de listas/filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "null"
+              "title": "filter"
             }
           }
         ],
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/adicionar elementos/null.md",
+                "file": "Aprendizado/JavaScript/manipulação de listas/filter.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +115,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de null"
+              "title": "Gráfico de filter"
             }
           }
         ]
@@ -283,13 +283,13 @@
   },
   "active": "00cb63b31070a66f",
   "lastOpenFiles": [
-    "Aprendizado/JavaScript/adicionar elementos/Sem título.md",
-    "Aprendizado/JavaScript/adicionar elementos/null.md",
     "Aprendizado/JavaScript/manipulação de listas/o que usar.md",
+    "Aprendizado/JavaScript/manipulação de listas/filter.md",
+    "Aprendizado/JavaScript/adicionar elementos/remove.md",
+    "Aprendizado/JavaScript/adicionar elementos/null.md",
     "Aprendizado/JavaScript/manipulação de listas/sort.md",
     "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
     "Aprendizado/JavaScript/add.EventListiner/document.AddEventListiner.md",
-    "Aprendizado/JavaScript/manipulação de listas/filter.md",
     "Aprendizado/JavaScript/manipulação de listas/map.md",
     "Aprendizado/JavaScript/validação/Contains e includes.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
