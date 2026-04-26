@@ -1,1 +1,5 @@
-"preciso remover itens de um array" → filter "preciso fazer algo pra cada item" → forEach "preciso transformar cada item" → map "preciso somar algo" → reduce "preciso achar um item" → find
+"preciso remover itens de um array" → filter  [[filter]]
+"preciso fazer algo pra cada item" → forEach [[forEach]]
+"preciso transformar cada item" → map [[map]]
+"preciso somar algo" → reduce [[reduce]]
+"preciso achar um item" → find [[find]]
