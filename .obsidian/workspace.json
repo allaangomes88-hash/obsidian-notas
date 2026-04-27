@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
+                "file": "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Append x AppendChild"
+              "title": "Eventos"
             }
           }
         ],
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
+                "file": "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +115,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Append x AppendChild"
+              "title": "Gráfico de Eventos"
             }
           }
         ]
@@ -283,6 +283,10 @@
   },
   "active": "00cb63b31070a66f",
   "lastOpenFiles": [
+    "Aprendizado/JavaScript/buscar dados API/api.md",
+    "Aprendizado/JavaScript/manipulação de listas/forEach.md",
+    "Aprendizado/JavaScript/buscar dados API",
+    "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
     "Aprendizado/JavaScript/adicionar elementos/createElement.md",
     "Aprendizado/JavaScript/add.EventListiner/onClick.md",
     "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
@@ -294,7 +298,6 @@
     "Aprendizado/JavaScript/manipulação de listas/sort.md",
     "Aprendizado/JavaScript/manipulação de listas/map.md",
     "Aprendizado/JavaScript/validação/Contains e includes.md",
-    "Aprendizado/JavaScript/manipulação de listas/forEach.md",
     "Aprendizado/JavaScript/validação/if else.md",
     "gameShelf [[fokus.md",
     "Aprendizado/JavaScript/validação/switch.md",
@@ -309,8 +312,6 @@
     "addEventListener.md",
     "Aprendizado/JavaScript/validação/if else",
     "Projetos/gameShelf.md",
-    "Aprendizado/JavaScript/Salvar Elemenos/sessionStorage.md",
-    "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
     "Aprendizado/JavaScript/Salvar Elemenos",
     "Aprendizado/JavaScript/add.EventListiner/eventos",
     "Aprendizado/JavaScript/add.EventListiner",
@@ -318,7 +319,6 @@
     "Aprendizado/JavaScript/eventos",
     "Aprendizado/JavaScript/adicionar elementos",
     "Aprendizado/JavaScript/validação",
-    "Projetos/Sem título",
     "Pasted image 20260419124644.png"
   ]
 }

@@ -37,3 +37,8 @@ uso em:[[fokus]] [[gameShelf]]
 `input.value = ''; // limpa o campo }`
 
 `});`
+
+---
+```js
+DOMContentLoaded
+```
