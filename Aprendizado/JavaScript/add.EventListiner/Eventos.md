@@ -42,3 +42,5 @@ uso em:[[fokus]] [[gameShelf]]
 ```js
 DOMContentLoaded
 ```
+
+Iniciar quando a pagina for carregada. o msm q colocar o nome dq funcão com o ( ) no meio do codigo
