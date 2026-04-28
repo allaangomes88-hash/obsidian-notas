@@ -68,8 +68,9 @@ async function memoriasNaTela(){
 como a API estava em outra pasta a gente importa, faz um [[try e catch]] pra validar,
 e o pega ali é a UL elemento pai das LI. MASSSSSS primeiro como passamos a VARIAVEL api, precisamos expessificar, falando que na api a gente quer o buscarPensamentos (api.buscarPensamentos).
 
-A criação dos elementos que estao no forEach: 
+A criação dos elementos que estao no forEach: [[createElement]]
 
+```
 function criacaoDeMemoria(memoria, containerDeMemoria){
 
     const li=document.createElement("li")
@@ -109,3 +110,4 @@ function criacaoDeMemoria(memoria, containerDeMemoria){
     pensamentos.append(li)
 
 }
+```
