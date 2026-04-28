@@ -1,3 +1,33 @@
+
+  
+```
+     async criarPensamento(pensamento) {
+
+        try {
+
+            const response = await fetch("http://localhost:3000/pensamentos", {
+            
+                method: "POST",
+
+                headers: {
+                    "Content-Type": "application/json"
+                },
+
+                body: JSON.stringify(pensamento)
+            })
+
+            return await response.json()
+
+        } catch (error) {
+
+            alert("erro ao enviar seu pensamento")
+
+            throw error
+        }
+
+    }
+```
+
 **`method: "POST"`** — é o **tipo da ação**. Existem vários:
 
 - `GET` = buscar dados (o que o `buscarPensamentos` faz)
