@@ -8,7 +8,6 @@ li.addEventListener("click", (e) => {
 ```
 [[Eventos]]
 
-`e` é o objeto do evento — ele guarda tudo que aconteceu no clique (posição do mouse, tecla pressionada, etc). E `target` é uma propriedade dele que aponta pro elemento que disparou o evento.
 
 ```js
 input.addEventListener("keydown", (e) => {
