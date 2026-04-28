@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado/JavaScript/adicionar elementos/e.target.md",
+                "file": "Aprendizado/JavaScript/variaveis/const.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "e.target"
+              "title": "const"
             }
           }
         ],
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aprendizado/JavaScript/adicionar elementos/e.target.md",
+                "file": "Aprendizado/JavaScript/variaveis/const.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -110,12 +110,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8854989543150364,
+                  "scale": 1.7404978230765813,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de e.target"
+              "title": "Gráfico de const"
             }
           }
         ]
@@ -283,15 +283,19 @@
   },
   "active": "00cb63b31070a66f",
   "lastOpenFiles": [
-    "Aprendizado/JavaScript/adicionar elementos/createElement.md",
     "Aprendizado/JavaScript/manipulação de listas/map.md",
+    "Aprendizado/JavaScript/variaveis/const.md",
+    "Aprendizado/JavaScript/adicionar elementos/e.target.md",
+    "Aprendizado/JavaScript/variaveis/const",
+    "Aprendizado/JavaScript/variaveis",
+    "Aprendizado/JavaScript/Sem título.md",
+    "Aprendizado/JavaScript/adicionar elementos/createElement.md",
     "Aprendizado/JavaScript/manipulação de listas/forEach.md",
     "Aprendizado/JavaScript/manipulação de listas/o que usar.md",
     "Aprendizado/JavaScript/buscar dados API/requisição HTTP.md",
     "Aprendizado/JavaScript/buscar dados API/api.md",
     "Aprendizado/JavaScript/adicionar elementos/null.md",
     "Aprendizado/JavaScript/adicionar elementos/new Audio.md",
-    "Aprendizado/JavaScript/adicionar elementos/e.target.md",
     "Aprendizado/JavaScript/adicionar elementos/Append x AppendChild.md",
     "Aprendizado/JavaScript/validação/try e catch.md",
     "Aprendizado/JavaScript/add.EventListiner/Eventos.md",
@@ -309,16 +313,12 @@
     "AOOOOOOOOOOOOOOOOOOOOO.md",
     "Recursos/new CustomEvent.md",
     "Aprendizado/JavaScript/adicionar elementos/Sem título",
-    "add.EventListiner.md",
-    "addEventListiner.md",
     "Aprendizado/JavaScript/validação/if else",
     "Aprendizado/JavaScript/Salvar Elemenos",
     "Aprendizado/JavaScript/add.EventListiner/eventos",
     "Aprendizado/JavaScript/add.EventListiner",
     "Aprendizado/JavaScript/adicionar audio/add.EventListener",
     "Aprendizado/JavaScript/eventos",
-    "Aprendizado/JavaScript/adicionar elementos",
-    "Aprendizado/JavaScript/validação",
     "Pasted image 20260419124644.png"
   ]
 }
